@@ -85,7 +85,7 @@ This project is licensed under the [MIT License](LICENSE).
 If you have any questions or feedback, feel free to contact us:
 
 - Team Elite
-- [GitHub](https://github.com/TeamElite)
+- [GitHub](https://github.com/Kalparatna)
 ```
 
 Make sure to replace placeholders like `your-username` with the appropriate information. Additionally, create `CONTRIBUTING.md` and `LICENSE` files if you haven't already, and include relevant information in those files.
